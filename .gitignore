@@ -2,6 +2,8 @@
 
 # dependencies
 employee-ui/node_modules
+employee-ui/package-lock.json
+employee-ui/yarn.lock
 employee-ui/.pnp
 .pnp.js
 
